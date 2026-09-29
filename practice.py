@@ -42,4 +42,6 @@ for i in range(1000):
 print("Learned mean:", pyro.param("mean").item())
 print("Learned std:", pyro.param("std").item())
 
-
+#git add .
+#git commit -m "Describe what I changed"
+#git push
